@@ -4,6 +4,7 @@ import Person from './Person/Person.js';
 
 class App extends Component {
   //component
+  //comment
   state={
     persons:[
       {name:"Ganesh", age:"24"},
