@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import Person from './Person/Person.js';
 
 class App extends Component {
+  //component
   state={
     persons:[
       {name:"Ganesh", age:"24"},
